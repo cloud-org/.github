@@ -13,9 +13,8 @@
 
 > love open source
 
-- cloud-org member:
+- cloud-org member(Listed in No Particular Order):
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething&theme=solarized)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething-bot&theme=solarized)
-

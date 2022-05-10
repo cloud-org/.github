@@ -11,4 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-- love open source
+> love open source
+
+- cloud-org member:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething&theme=solarized)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething-bot&theme=solarized)
+

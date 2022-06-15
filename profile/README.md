@@ -13,7 +13,13 @@
 
 > love open source
 
-- cloud-org member(Listed in No Particular Order):
+#### golang
+
+- [cloud-org/kubernetes-notes](https://github.com/cloud-org/kubernetes-notes): kubernetes client-go 相关，包含一些基本的资源操作等
+- [cloud-org/gocn-push](https://github.com/cloud-org/gocn-push): gocn 每日新闻推送，支持多种通知方式
+- [cloud-org/6.824](https://github.com/cloud-org/6.824): MIT6.824 分布式系统课程，坑还没填完，目前暂时只写了实验一 MapReduce
+
+##### cloud-org member(Listed in No Particular Order):
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething&theme=solarized)
 

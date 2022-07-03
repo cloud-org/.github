@@ -22,6 +22,10 @@
 
 ##### cloud-org member(Listed in No Particular Order):
 
+- [ronething](https://github.com/ronething)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething&theme=solarized)
+
+- [ronething-bot](https://github.com/ronething-bot)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronething-bot&theme=solarized)

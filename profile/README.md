@@ -4,7 +4,7 @@
 
 #### golang
 
-- [cloud-org/edge-proxy](https://github.com/cloud-org/edge-proxy): 2022第三届云原生编程挑战赛-赛道2：针对边缘计算场景的ACK@Edge高效的边缘自治方案 目前初赛 top1，11月初比赛结束无其他情况会进行开源
+- [cloud-org/edge-proxy](https://github.com/cloud-org/edge-proxy): 2022第三届云原生编程挑战赛-赛道2：针对边缘计算场景的ACK@Edge高效的边缘自治方案
 - [cloud-org/sample](https://github.com/cloud-org/sample): many minimum viable demo
 - [cloud-org/crontab](https://github.com/cloud-org/crontab): Implement distributed task scheduling component based on etcd and mongodb
 - [cloud-org/kubernetes-notes](https://github.com/cloud-org/kubernetes-notes): kubernetes client-go
